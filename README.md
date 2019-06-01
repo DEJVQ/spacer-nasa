@@ -1,5 +1,7 @@
 # spacer-nasa
 
+Project created to learn VueJS
+
 ## Project setup
 ```
 npm install
